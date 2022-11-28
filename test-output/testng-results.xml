@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4673" started-at="2022-11-28T02:45:23 CST" finished-at="2022-11-28T02:45:28 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4673" started-at="2022-11-28T02:45:23 CST" finished-at="2022-11-28T02:45:28 CST">
+      <class name="test.TechFiosPageTest">
+        <test-method status="PASS" signature="TC1()[pri:1, instance:test.TechFiosPageTest@1e965684]" name="TC1" duration-ms="4327" started-at="2022-11-28T02:45:23 CST" finished-at="2022-11-28T02:45:28 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="TC2()[pri:2, instance:test.TechFiosPageTest@1e965684]" name="TC2" duration-ms="2" started-at="2022-11-28T02:45:28 CST" finished-at="2022-11-28T02:45:28 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="TC3()[pri:3, instance:test.TechFiosPageTest@1e965684]" name="TC3" duration-ms="307" started-at="2022-11-28T02:45:28 CST" finished-at="2022-11-28T02:45:28 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- test.TechFiosPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
